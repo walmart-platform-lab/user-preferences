@@ -1,0 +1,8 @@
+identifier: user-preferences
+title: User Preferences
+blueprint: service
+properties:
+  language: golang
+  tier: tier3
+relations:
+  owner: team-core-infra
